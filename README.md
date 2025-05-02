@@ -1,0 +1,2 @@
+--Install all dependecies: "npm install" in the root folder
+--To run expo use: "npx expo start" in the root folder
